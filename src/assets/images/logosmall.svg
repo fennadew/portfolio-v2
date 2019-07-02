@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="91px" height="53px" viewBox="0 0 91 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>logosmall</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logosmall" fill="#424242" fill-rule="nonzero">
+            <rect id="Rectangle-path" transform="translate(73.338800, 26.519600) rotate(-57.264774) translate(-73.338800, -26.519600) " x="43.2210536" y="25.0217015" width="60.2354928" height="2.99579706"></rect>
+            <g id="Group" transform="translate(0.000000, 6.000000)">
+                <polygon id="Shape" points="9.13 9.14 9.13 16.56 23.43 16.56 23.43 25 9.13 25 9.13 39.13 0.33 39.13 0.33 0.63 23.7 0.63 23.7 9.1"></polygon>
+                <polygon id="Shape" points="30.48 0.67 39.72 0.67 46.37 27.62 53.79 0.67 60.94 0.67 68.36 27.62 75 0.67 84.24 0.67 67.24 30.67 63 36.87 57.36 16.45 51.09 39.16 41.09 39.16"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

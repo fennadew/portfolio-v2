@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="470px" height="45px" viewBox="0 0 470 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(0.000000, 1.000000)">
+            <polygon id="Shape" fill="#424242" fill-rule="nonzero" points="7.2 12.13 7.2 17.53 17.6 17.53 17.6 23.69 7.2 23.69 7.2 34 0.8 34 0.8 6 17.8 6 17.8 12.16"></polygon>
+            <polygon id="Shape" fill="#424242" fill-rule="nonzero" points="51.2 27.81 51.2 34 33.6 34 33.6 6 51 6 51 12.16 40 12.16 40 16.8 50 16.8 50 22.88 40 22.88 40 27.88"></polygon>
+            <polygon id="Shape" fill="#424242" fill-rule="nonzero" points="88.8 6 88.8 34 84 34 73.2 18.8 73.2 34 66.8 34 66.8 6 71.6 6 82.4 21.2 82.4 6"></polygon>
+            <polygon id="Shape" fill="#424242" fill-rule="nonzero" points="127.6 6 127.6 34 122.8 34 112 18.77 112 34 105.6 34 105.6 6 110.4 6 121.2 21.2 121.2 6"></polygon>
+            <path d="M160.8,29.57 L150.4,29.57 L149,34 L142,34 L151.52,6 L159.68,6 L169.2,34 L162.2,34 L160.8,29.57 Z M158.88,23.57 L155.6,13.29 L152.32,23.57 L158.88,23.57 Z" id="Shape" fill="#424242" fill-rule="nonzero"></path>
+            <path d="M230.4,20 C230.4,27.92 224.52,34 216.8,34 L205.6,34 L205.6,6 L216.8,6 C224.52,6 230.4,12 230.4,20 Z M224.24,20 C224.24,15.2 221.24,12.16 216.8,12.16 L212,12.16 L212,27.84 L216.8,27.84 C221.2,27.81 224.24,24.77 224.24,20 Z" id="Shape" fill="#424242" fill-rule="nonzero"></path>
+            <polygon id="Shape" fill="#424242" fill-rule="nonzero" points="263.6 27.81 263.6 34 246 34 246 6 263.4 6 263.4 12.16 252.4 12.16 252.4 16.8 262.4 16.8 262.4 22.88 252.4 22.88 252.4 27.88"></polygon>
+            <polygon id="Shape" fill="#424242" fill-rule="nonzero" points="299.21 6 305.93 6 310.77 25.6 316.17 6 321.37 6 326.77 25.6 331.6 6 338.32 6 330.6 34 323.32 34 318.76 17.48 314.2 34 306.92 34"></polygon>
+            <polygon id="Shape" fill="#424242" fill-rule="nonzero" points="359.52 6 359.52 34 353.12 34 353.12 6"></polygon>
+            <polygon id="Shape" fill="#424242" fill-rule="nonzero" points="392.72 27.81 392.72 34 376.32 34 376.32 6 382.72 6 382.72 27.84"></polygon>
+            <path d="M432.32,20 C432.32,27.92 426.44,34 418.72,34 L407.52,34 L407.52,6 L418.72,6 C426.44,6 432.32,12 432.32,20 Z M426.16,20 C426.16,15.2 423.16,12.16 418.72,12.16 L413.92,12.16 L413.92,27.84 L418.72,27.84 C423.12,27.81 426.16,24.77 426.16,20 Z" id="Shape" fill="#424242" fill-rule="nonzero"></path>
+            <polygon id="Shape" fill="#424242" fill-rule="nonzero" points="452.7 26.17 451.4 28.06 447.92 33.96 447.92 6 465.32 6 461.63 12.16 454.32 12.16 454.32 16.8 458.88 16.8 456.26 20 454.33 22.88 453.46 24.53"></polygon>
+            <path d="M468.48,0.99 L442.38,41.89" id="Shape" stroke="#424242" stroke-width="2" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="13px" viewBox="0 0 8 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Triangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="black-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-787.000000, -808.000000)">
+        <g id="DRAG-SECTION" transform="translate(749.000000, 788.000000)" stroke="#F7F7F7" stroke-width="2">
+            <g id="drag-icon-" transform="translate(0.000000, 14.000000)">
+                <polyline id="Triangle" transform="translate(42.000000, 12.500000) rotate(-270.000000) translate(-42.000000, -12.500000) " points="37 15 42 10 47 15"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
