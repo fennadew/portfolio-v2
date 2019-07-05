@@ -1,5 +1,7 @@
 import React, {Component} from 'react';
 import {ProjectImage} from './projectImage';
+import {Link} from 'react-router-dom';
+import {projects} from '../data/projects';
 
 class HomePageLink extends Component {
     state = {
@@ -18,12 +20,12 @@ class HomePageLink extends Component {
 
     render() {
       return (
-        <div className={this.props.mouseDown ? 'project-link drag' : 'project-link'}
+        <Link to={projects[this.props.index].link} className={this.props.mouseDown ? 'project-link drag' : 'project-link'}
           onDragStart={(e) => e.preventDefault()}
           onDragEnter={(e) => e.preventDefault()}
           onClick={this.handleClick}>
           <ProjectImage link={this.props.project.link} handleTouchStart={this.props.handleTouchStart} image={this.props.project.url} mouseDown={this.props.mouseDown}/>
-        </div>
+        </Link>
       );
     }
 }

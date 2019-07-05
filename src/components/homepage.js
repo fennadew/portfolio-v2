@@ -79,7 +79,7 @@ class HomePage extends Component {
           this.setState({
             scrolling: false,
           });
-        }, 800);
+        }, 900);
       }
     };
 

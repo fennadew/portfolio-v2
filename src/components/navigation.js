@@ -12,7 +12,7 @@ class Navigation extends Component {
     };
     
     render() {
-      const location = this.props.location.pathname.replace(/^\/([^\/]*).*$/, '$1');
+      const location = this.props.location.pathname.replace(/^\/([^/]*).*$/, '$1');
       return (
         <aside className='navigation-container mobile-hidden'>
           <nav>

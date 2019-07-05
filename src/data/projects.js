@@ -2,7 +2,7 @@ export const projects = [
   {
     id: 0,
     name: 'Gulf Gas + Power',
-    url: require('../assets/images/gulf/mockup.png'),
+    url: require('../assets/images/gulf/hp1.png'),
     link: '/projects/gulf-gas-power',
     theme: 'all',
     bigOneUrl: require('../assets/images/gulf/mockup1.png'),
@@ -14,23 +14,9 @@ export const projects = [
     role: 'Front-end developer',
     links: ['https://www.gulfgasandpower.nl/']
   }, {
-    id: 1,
-    name: 'Track \'n Trash',
-    url: require('../assets/images/trashy/mockup.png'),
-    link: '/projects/track-n-trash',
-    theme: 'mobile',
-    smallOneUrl: require('../assets/images/trashy/mb1.png'),
-    smallTwoUrl: require('../assets/images/trashy/mb2.png'),
-    smallThreeUrl: require('../assets/images/trashy/mb3.png'),
-    text: ['Track \'n Trash is a ReactJS application I made together with four teammates. My job was the final design & development. The app is a prototype and mobile only. The application is intended to encourage students to make less use of their mobile phone.',
-      'The app keeps track of how long each roommate uses his phone, The more time they spend on their mobile phone, the more tedious household tasks they have to do.', 'At any time, the users can view their position in the rankings, and the app will give notifications when a user has dropped or gone up in the rankings. Also, it is possible to view their statistics (phone usage). At the end of the week, the app will distribute the household tasks based on the ranking of the users.'],
-    client: 'Amsterdam University of Applied Sciences',
-    role: 'Designer, Front-end developer',
-    links: ['https://fennadew.github.io/trashy/']
-  },{
     id: 2,
-    name: 'Robin Energie',
-    url: require('../assets/images/robin/mockup.png'),
+    name: 'Fluff Casual Cosmetics',
+    url: require('../assets/images/fluff/fluff.png'),
     link: '/projects/robin-energie',
     theme: 'all',
     bigOneUrl: require('../assets/images/robin/mockup1.png'),
@@ -43,8 +29,8 @@ export const projects = [
     links: ['https://robinenergie.nl/']
   }, {
     id: 3,
-    name: 'Raad van Kinderen',
-    url: require('../assets/images/rvk/mockup.png'),
+    name: 'So Fluff',
+    url: require('../assets/images/sofluff/sofluff.png'),
     link: '/projects/raad-van-kinderen',
     theme: 'all',
     bigOneUrl: require('../assets/images/rvk/mockup1.png'),
@@ -58,8 +44,8 @@ I was part of the front-end team that created the website. We coded in SASS, ES6
     links: ['http://www.rvkawards.nl/']
   }, {
     id: 4,
-    name: 'Portfolio website',
-    url: require('../assets/images/webdesign/mockup.png'),
+    name: 'Tileyard',
+    url: require('../assets/images/tileyard/tileyard.png'),
     link: '/projects/portfolio-website',
     theme: 'desktop',
     bigOneUrl: require('../assets/images/webdesign/mockup1.png'),

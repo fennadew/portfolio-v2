@@ -20,7 +20,7 @@ class DragBar extends Component {
 
     render() {
       return (
-        <div className="drag-bar">
+        <div className='drag-bar'>
           <span
             onMouseDown={(e) => this.props.handleDragStart(e)}
             onTouchStart={(e) => this.props.handleTouchStart(e, true)}
@@ -29,7 +29,7 @@ class DragBar extends Component {
               transform: 'translateX(' + this.props.transform + 'px)'
             }}>
           </span>
-          <div className="drag-circle"></div>
+          <div className='drag-circle'></div>
           <hr ref={this.dragContainer} />
         </div>
       );

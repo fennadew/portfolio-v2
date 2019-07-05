@@ -1,17 +1,17 @@
 import React, {Component} from 'react';
 
 import {projects} from '../data/projects';
-import HomePageLink from './projectLink';
-import {TitleContainer} from './titleContainer';
+import ProjectLink from './projectLink';
+import TitleContainer from './titleContainer';
 
 class DragContainer extends Component {
   render() {
     const { projectIndex, mouseDown } = {...this.props};
     return (
-      <div className="right">
+      <div className='right'>
         <TitleContainer title={projects[projectIndex].name} index={projectIndex}
           color={projects[projectIndex].color}/>
-        <div className="overflow-hidden">
+        <div className='overflow-hidden'>
           <ul style={{
             width: projects.length * 100 + '%',
             transform: 'translateX(-' + projectIndex * (100 / projects.length) + '%)'
@@ -19,9 +19,9 @@ class DragContainer extends Component {
             {projects.map((obj, i) => {
               return (
                 <li key={i}>
-                  <HomePageLink
+                  <ProjectLink
                     project={obj}
-                    projectIndex={i}
+                    index={i}
                     handleTouchStart={this.props.handleTouchStart}
                     mouseDown={mouseDown}/>
                 </li>
